@@ -1,6 +1,6 @@
 ## **Manual de Referência do Raspberry Pi Pico W**
 
-O Raspberry Pi Pico W é uma expansão sem fio do Raspberry Pi Pico, incorporando interfaces sem fio adicionais mantendo o mesmo fator de forma compacto. Este componente é especialmente designado para aplicações de Internet das Coisas (IoT) devido à sua capacidade de facilitar a comunicação entre computadores e a internet, além de ser capaz de atuar como um servidor web para controlar saídas digitais e receber dados de sensores.
+Desde o seu lançamento inicial, a família Raspberry Pi tem revolucionado o mundo dos microcomputadores, tornando a computação acessível e prática para milhões em todo o mundo. Dando continuidade a essa tradição de inovação, surge o Raspberry Pi Pico W, uma adição notável à família, especificamente no segmento de microcontroladores. Caracterizado pela sua versatilidade e poder, o Pico W não é apenas um mero microcontrolador, mas uma plataforma robusta que integra conectividade avançada, como Wi-Fi e Bluetooth, ao lado de interfaces padrão como GPIO e USB. Seja para iniciantes que desejam mergulhar no mundo do "faça você mesmo" ou para desenvolvedores experientes buscando uma solução compacta e eficaz, o Raspberry Pi Pico W promete ser um instrumento indispensável em projetos eletrônicos e de IoT.
 
 ### **Especificações:**
 
