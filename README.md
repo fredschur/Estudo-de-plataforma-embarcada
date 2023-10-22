@@ -35,7 +35,7 @@ O Raspberry Pi Pico W é uma expansão sem fio do Raspberry Pi Pico, incorporand
 
 ### Circuito
 
-
+![Alt text](https://github.com/fredschur/Estudo-de-plataforma-embarcada/blob/main/img/circuito.png)
 
 ### Implementação
 
